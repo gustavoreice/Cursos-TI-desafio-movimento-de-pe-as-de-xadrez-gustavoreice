@@ -1,5 +1,5 @@
-# Cursos-TI-desafio-movimento-de-peças-de-xadrez-gustavoreice
-Cursos-TI Desavio Movimentando peças de xadrez
+# Cursos-TI/desafio movimento de peças de xadrez em Liguagem C++ 
+Cursos-TI Desavio Movimentando peças de xadrez em Linguagem C++
 Desafio: nível novato
 Movimentando as Peças do xadrez
 
