@@ -1,4 +1,4 @@
-# Cursos-TI-desafio-movimento-de-pe-as-de-xadrez-gustavoreice
+# Cursos-TI-desafio-movimento-de-peças-de-xadrez-gustavoreice
 Cursos-TI Desavio Movimentando peças de xadrez
 Desafio: nível novato
 Movimentando as Peças do xadrez
